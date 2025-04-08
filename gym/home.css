@@ -1,0 +1,16 @@
+.home{
+  position: absolute;
+  left: 8rem;
+  top: 5rem;
+  text-decoration: none !important;
+  font-size: 1.5rem;
+  color: red !important;
+  
+}
+Link a{
+  text-decoration: none !important;
+  font-size: 1.5rem;
+  color: red !important;
+  margin: 5px 10px;
+
+}

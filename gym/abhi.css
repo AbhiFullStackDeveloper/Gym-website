@@ -1,0 +1,10 @@
+.abhi{
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+    border-radius: 50%;
+}
+
+.header-bgcolor{
+    background-color: aliceblue;
+}

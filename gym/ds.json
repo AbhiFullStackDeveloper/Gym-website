@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "uname": "abhi",
+      "Email": "test@gmail.com",
+      "contact": "8934545346"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4,
+      "uname": "koko",
+      "Email": "koko@gmail.com",
+      "contact": "8354756373"
+    },
+    {
+      "id": 5,
+      "uname": "ram",
+      "Email": "Magar13@gmail.com",
+      "contact": "46546547678"
+    },
+    {
+      "id": 6,
+      "uname": "Abhishek",
+      "Email": "magar1234@gmail.com",
+      "contact": "8979765875"
+    },
+    {
+      "id": "3a4f",
+      "uname": "rohit",
+      "Email": "rohit123@gmail.com",
+      "contact": "654789456"
+    },
+    {
+      "id": "517e",
+      "uname": "Rohit",
+      "Email": "rohit123@gmail.com",
+      "contact": "3576546789"
+    }
+  ],
+  "users": [
+    {
+      "id": 123,
+      "email": "Magar1234@gmail.com",
+      "password": "Abhi"
+    }
+  ]
+}
